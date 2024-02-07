@@ -1,4 +1,8 @@
+# Hi!
 ### Hi there 👋
+<img src="https://lanyard-profile-readme.vercel.app/api/354427199023218689?animated=true" height=200px/>
+
+Discord: trwy
 
 <!--
 **trwy7/trwy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
