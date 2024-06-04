@@ -1,20 +1,8 @@
-# Hi!
-### Hi there 👋
+### Hey! I'm trey.
+I spent alot of my time learning Scratch (and later TurboWarp) early on making small games for friends (and demos for school projects), which built the foundation for me to start learning more programming languages.
+#### Languages
+🟢 Python
+🟢 Batch/Bash/Shell
+🟡 Javascript/Typescript
+#### What I'm doing
 <img src="https://lanyard-profile-readme.vercel.app/api/354427199023218689?animated=true" height=200px/>
-
-Discord: trwy
-
-<!--
-**trwy7/trwy7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
